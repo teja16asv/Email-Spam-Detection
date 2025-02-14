@@ -13,41 +13,23 @@ A Django web application that integrates a Machine Learning model to detect spam
 6. ***Accuracy & Performance*** – Achieved 99% accuracy in detecting spam emails.
 
 ## 📸 Screenshot
-(Attach your UI screenshots here to showcase the project.)
+![Screenshot 2025-02-14 223416](https://github.com/user-attachments/assets/a7cffe00-0db0-4f26-92df-9b0b5eb01ab4)
 
 ## Steps to Open the WebApp:
 * Clone the Repository
-`git clone https://github.com/yourusername/spam-detection-django.git`
-cd spam-detection-django
-2️⃣ Install Dependencies
-bash
-Copy
-Edit
-pip install -r requirements.txt
-3️⃣ Run Migrations
-bash
-Copy
-Edit
-python manage.py migrate
-4️⃣ Start the Server
-bash
-Copy
-Edit
-python manage.py runserver
-5️⃣ Use the App
-Open http://127.0.0.1:8000/ in your browser.
-Enter an email message and check if it’s spam or not!
-📂 Dataset
-The spam detection model was trained using a dataset available here:
-Download Dataset
+`git clone https://github.com/teja16asv/Email-Spam-Detection.git`
+* Open the folder
+`cd Email-Spam-Detection`
+* Start the Server
+`python manage.py runserver`
+* The app will start running in your local host. Go to the below link to open to the WebApp.
+> http://127.0.0.1:8000/
+* Now you can enter any email message and check if it’s spam or not!
 
-🎯 What You’ll Learn
-🛠️ Setting up a Django project and app.
-📝 Creating forms and views for user input.
-🤖 Integrating a Machine Learning model into Django.
-💻 Building an interactive HTML/CSS interface.
-🚀 Running and testing a fully functional web application.
-🌟 Credits
-This project was developed to bridge the gap between Machine Learning and Web Development, making AI models more accessible to non-technical users.
+## 📂 Dataset
+The spam detection model was trained using a dataset available here:
+[Download Dataset](https://drive.google.com/file/d/1MQQdM2DLan07qGiXIO5Qp1n3831Bw9s2/view?usp=sharing)
 
 💡 Feel free to contribute or provide suggestions! 😊
+[^] Atyam SV Teja
+
